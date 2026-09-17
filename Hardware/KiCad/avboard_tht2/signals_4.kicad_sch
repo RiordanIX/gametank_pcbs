@@ -18821,7 +18821,7 @@
 	)
 	(symbol
 		(lib_id "signals-eagle-import:R-US_0207/10")
-		(at 231.14 198.12 0)
+		(at 231.14 198.12 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18831,7 +18831,7 @@
 		(dnp no)
 		(uuid "fd9ee6a1-4bcf-446e-9c20-bfbed97e8f3b")
 		(property "Reference" "R21"
-			(at 227.33 196.6214 0)
+			(at 234.95 194.818 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18842,7 +18842,7 @@
 			)
 		)
 		(property "Value" "3.3k"
-			(at 227.33 201.422 0)
+			(at 234.95 199.6186 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
